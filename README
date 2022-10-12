@@ -1,3 +1,5 @@
+** This fork of Retroleap is aimed specifically at the LeapsterGS, using a pre-compiled uImage and cores **
+** Please do NOT try and build this but refer to the Releases section for more info **
 
 retroleap is a replacement firmware for Leapfrog devices (currently for LeapsterGS and LeapPad2), that combines retroarch, ARM-optimized emulator cores, and a buildroot root filesystem.
 
